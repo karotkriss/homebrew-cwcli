@@ -3,8 +3,8 @@ class Cwcli < Formula
 
   desc "CLI for managing local Frappe/ERPNext Docker instances"
   homepage "https://github.com/karotkriss/caffeinated-whale-cli"
-  url "https://files.pythonhosted.org/packages/df/25/26450b926b93cc53f203eba4e60007731f2673cf4cd317105699bfab9e27/caffeinated_whale_cli-3.2.1.tar.gz"
-  sha256 "6eb5a03e73d5818422bd968a4e4ba7a93a0ead0c108d34e14fc2fadc9c573fe1"
+  url "https://files.pythonhosted.org/packages/99/c7/ad21bf2e7da7733b509127535c29e7f652547027c78aab6120cdbac2f229/caffeinated_whale_cli-3.3.0.tar.gz"
+  sha256 "9852c909b6529cbc13733187396b5d0c0794d631c3c853e0b21ddc4dd572cd9d"
   license "MIT"
 
   depends_on "python@3.14"
